@@ -1,0 +1,319 @@
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.AssemblyReference.cache
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form1.resources
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.GenerateResource.cache
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfoInputs.cache
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfo.cs
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.CoreCompileInputs.cache
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.exe
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.deps.json
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.runtimeconfig.json
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\refint\WikiRemedy.dll
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.genruntimeconfig.cache
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\ref\WikiRemedy.dll
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Properties.Resources.resources
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Creditos.resources
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Buttom1.resources
+C:\Users\Kevin Martins\Desktop\TRABALHO FINAL\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.BoasVindas.resources
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.exe
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.deps.json
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.runtimeconfig.json
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.AssemblyReference.cache
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.BoasVindas.resources
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Buttom1.resources
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Creditos.resources
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form1.resources
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Properties.Resources.resources
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.GenerateResource.cache
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfoInputs.cache
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfo.cs
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.CoreCompileInputs.cache
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\refint\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.genruntimeconfig.cache
+C:\Users\Escritorio\Desktop\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\ref\WikiRemedy.dll
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.exe
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.deps.json
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.runtimeconfig.json
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.dll
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.pdb
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.AssemblyReference.cache
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.BoasVindas.resources
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Buttom1.resources
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Creditos.resources
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form1.resources
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Properties.Resources.resources
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.GenerateResource.cache
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.GeneratedMSBuildEditorConfig.editorconfig
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfoInputs.cache
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfo.cs
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.CoreCompileInputs.cache
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.dll
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\refint\WikiRemedy.dll
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.pdb
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.genruntimeconfig.cache
+F:\JoaoVC\jja\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\ref\WikiRemedy.dll
+H:\JoaoVC\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.AssemblyReference.cache
+H:\JoaoVC\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.dll
+H:\JoaoVC\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\refint\WikiRemedy.dll
+H:\JoaoVC\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.exe
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.deps.json
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.runtimeconfig.json
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.AssemblyReference.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.BoasVindas.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Buttom1.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Creditos.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form1.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Properties.Resources.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.GenerateResource.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfoInputs.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfo.cs
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.CoreCompileInputs.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\refint\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.genruntimeconfig.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\ref\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form2.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.exe
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.deps.json
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.runtimeconfig.json
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.AssemblyReference.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.BoasVindas.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Buttom1.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Creditos.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form1.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form2.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Properties.Resources.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.GenerateResource.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfoInputs.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfo.cs
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.CoreCompileInputs.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\refint\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.genruntimeconfig.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\ref\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 1\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form3.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.exe
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.deps.json
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.runtimeconfig.json
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.AssemblyReference.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.BoasVindas.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Buttom1.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Creditos.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form1.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form2.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form3.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form4.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Properties.Resources.resources
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.GenerateResource.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfoInputs.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfo.cs
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.CoreCompileInputs.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\refint\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.genruntimeconfig.cache
+C:\Users\Escritorio\Desktop\Nova pasta\Nova pasta\Backup 2\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\ref\WikiRemedy.dll
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\refint\WikiRemedy.dll
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.BoasVindas.resources
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Buttom1.resources
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Creditos.resources
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form1.resources
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form2.resources
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form3.resources
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form4.resources
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.exe
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.deps.json
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.runtimeconfig.json
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\ref\WikiRemedy.dll
+H:\JoaoVC\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.AssemblyReference.cache
+H:\JoaoVC\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.dll
+H:\JoaoVC\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\refint\WikiRemedy.dll
+H:\JoaoVC\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.exe
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.deps.json
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.runtimeconfig.json
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.AssemblyReference.cache
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.BoasVindas.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Creditos.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form1.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form2.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form3.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form4.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Properties.Resources.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.GenerateResource.cache
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfoInputs.cache
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfo.cs
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.CoreCompileInputs.cache
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\refint\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.genruntimeconfig.cache
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\ref\WikiRemedy.dll
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form5.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form6.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form7.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form8.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form10.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form9.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form11.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form12.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form13.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form14.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form15.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form16.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form17.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form18.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form19.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form20.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form21.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form22.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form23.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form24.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form25.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form26.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form27.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form28.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form29.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form30.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form31.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form32.resources
+C:\Users\Escritorio\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form33.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.exe
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.deps.json
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.runtimeconfig.json
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.BoasVindas.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Creditos.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form1.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form10.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form11.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form12.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form13.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form14.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form15.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form16.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form17.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form18.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form19.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form2.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form20.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form21.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form22.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form23.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form24.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form25.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form26.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form27.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form28.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form29.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form3.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form30.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form31.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form32.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form33.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form4.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form5.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form6.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form7.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form8.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form9.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Properties.Resources.resources
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\refint\WikiRemedy.dll
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\App\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\ref\WikiRemedy.dll
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.exe
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.deps.json
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.runtimeconfig.json
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\bin\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.BoasVindas.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Creditos.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form1.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form10.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form11.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form12.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form13.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form14.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form15.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form16.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form17.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form18.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form19.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form2.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form20.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form21.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form22.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form23.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form24.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form25.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form26.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form27.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form28.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form29.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form3.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form30.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form31.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form32.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form33.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form4.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form5.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form6.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form7.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form8.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Form9.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.Properties.Resources.resources
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.GenerateResource.cache
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfoInputs.cache
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.AssemblyInfo.cs
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.csproj.CoreCompileInputs.cache
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.dll
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\refint\WikiRemedy.dll
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.pdb
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\WikiRemedy.genruntimeconfig.cache
+C:\Users\joao\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\Documentos\WikiRemedy\WikiRemedy\obj\Debug\net6.0-windows\ref\WikiRemedy.dll

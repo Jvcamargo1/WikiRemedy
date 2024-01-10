@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy.exe
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy.dll
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy.deps.json
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy.runtimeconfig.json
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy.pdb

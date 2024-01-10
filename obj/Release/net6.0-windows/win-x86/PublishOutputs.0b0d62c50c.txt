@@ -1,0 +1,7 @@
+C:\Users\Usuario\Desktop\App\ex\WikiRemedy.pdb
+C:\Users\Usuario\Desktop\App\ex\D3DCompiler_47_cor3.dll
+C:\Users\Usuario\Desktop\App\ex\PenImc_cor3.dll
+C:\Users\Usuario\Desktop\App\ex\PresentationNative_cor3.dll
+C:\Users\Usuario\Desktop\App\ex\vcruntime140_cor3.dll
+C:\Users\Usuario\Desktop\App\ex\wpfgfx_cor3.dll
+C:\Users\Usuario\Desktop\App\ex\WikiRemedy.exe

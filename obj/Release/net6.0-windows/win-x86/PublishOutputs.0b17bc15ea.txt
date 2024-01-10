@@ -1,0 +1,7 @@
+C:\Users\Usuario\Downloads\BORRACHA\Nova pasta\WikiRemedy.pdb
+C:\Users\Usuario\Downloads\BORRACHA\Nova pasta\D3DCompiler_47_cor3.dll
+C:\Users\Usuario\Downloads\BORRACHA\Nova pasta\PenImc_cor3.dll
+C:\Users\Usuario\Downloads\BORRACHA\Nova pasta\PresentationNative_cor3.dll
+C:\Users\Usuario\Downloads\BORRACHA\Nova pasta\vcruntime140_cor3.dll
+C:\Users\Usuario\Downloads\BORRACHA\Nova pasta\wpfgfx_cor3.dll
+C:\Users\Usuario\Downloads\BORRACHA\Nova pasta\WikiRemedy.exe

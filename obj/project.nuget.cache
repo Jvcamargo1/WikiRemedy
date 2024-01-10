@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "fyWdfOkGoAsAx/csuAK4Ob10wt9ZBiCgjwC6V02w8SBmF1lKF3/0zSlU0regKvYI/uSLgDWU8DcbEL0BEtSOGg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\joao\\OneDrive - UNISAGRADO - ENSINO SUPERIOR DE EXCELÊNCIA\\Documentos\\WikiRemedy\\WikiRemedy\\WikiRemedy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joao\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\joao\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\joao\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\joao\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}

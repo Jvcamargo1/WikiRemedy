@@ -1,0 +1,5 @@
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\bin\Release\net6.0-windows\publish\WikiRemedy.exe
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\bin\Release\net6.0-windows\publish\WikiRemedy.dll
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\bin\Release\net6.0-windows\publish\WikiRemedy.deps.json
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\bin\Release\net6.0-windows\publish\WikiRemedy.runtimeconfig.json
+C:\Users\Usuario\Desktop\Nova pasta\WikiRemedy\WikiRemedy\bin\Release\net6.0-windows\publish\WikiRemedy.pdb
